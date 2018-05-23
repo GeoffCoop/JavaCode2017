@@ -1,0 +1,22 @@
+.button {
+    -fx-background-color: gainsboro;
+    -fx-background-radius: 0;
+    -fx-border-color: black;
+    -fx-border-width: .3;
+}
+
+.button:hover{
+    -fx-background-color: ghostwhite;
+}
+
+#bomb{
+    -fx-background-color: ghostwhite;
+    -fx-image: "cs2410/images/flagged";
+}
+#bomb:disabled {
+
+}
+
+#bomb:pressed {
+
+}
